@@ -4,6 +4,8 @@
 * ">" is quote
 * **BOLD**
 
+- "-" is used in this line
+
 > * *This text will be italic* - [github help](https://help.github.com/articles/markdown-basics/)
 
 
