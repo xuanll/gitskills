@@ -1,4 +1,4 @@
-#markdown grammer
+#markdown grammar
 
 * ">" is quote
 * **BOLD**
