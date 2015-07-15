@@ -17,6 +17,7 @@
 
 - git status
 
+- git log --pretty=oneline
 
 > * *This text will be italic* - [github help](https://help.github.com/articles/markdown-basics/)
 
