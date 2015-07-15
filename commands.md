@@ -6,6 +6,16 @@
 - "-" is used in this line
 * "*" is the same with "-" in GitHub markdown grammer
 
+## Git commands
+- git add file.txt
+- git commit -m "comments"
+- git push origin master
+
+- git rm file.txt
+
+- git status
+
+
 > * *This text will be italic* - [github help](https://help.github.com/articles/markdown-basics/)
 
 
