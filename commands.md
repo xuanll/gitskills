@@ -13,3 +13,5 @@
 - git log --pretty=oneline
 
 - git log --graph 查看分支合并图
+
+- git remote -v 查看远程库信息
