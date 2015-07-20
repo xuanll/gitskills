@@ -11,3 +11,5 @@
 - git status
 
 - git log --pretty=oneline
+
+- git log --graph 查看分支合并图
