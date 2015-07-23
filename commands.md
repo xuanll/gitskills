@@ -28,3 +28,12 @@
 
 ### 查看远程库信息
 - git **remote** -v 
+
+### 创建并切换到分支
+- git checkout -b **0723**
+  等同于两个命令的组合：
+  ```
+  git branch **0723**
+  git checkout **0723**
+  ```
+  
