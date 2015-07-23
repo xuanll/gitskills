@@ -30,10 +30,20 @@
 - git **remote** -v 
 
 ### 创建并切换到分支
-- git checkout -b **0723**
+- git **checkout** -b *0723*
 - 等同于两个命令的组合：
   ```
-  git branch **0723**
-  git checkout **0723**
+  git **branch** *0723*
+  git **checkout** *0723*
   ```
+ 
+### 打标签
+- git **tag** *v1.0* /[commit id/]
+
+### 推送标签到远程服务器
+- git **push** *origin* *v1.0*
+- 一次性推送全部尚未推送到远程的本地标签
+ ```
+ git **push** *origin* --tags
+ ```
   
