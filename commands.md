@@ -2,6 +2,9 @@
 
 * 运行 Git Bash ，进入到安装目录 直接运行 "Git Bash" (Windows 下 "Git Bash.vbs")
 
+### 从远程仓库(Github)Clone
+- git **clone** git@github.com:*xuanll*/*u3dnotes*.git 
+
 ### 新增/更新文件
 - git **add** file.txt
 
