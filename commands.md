@@ -39,6 +39,10 @@
   git **branch** *0723*
   
   git **checkout** *0723*
+  
+### 合并分支0723到当前分支
+
+- git **merge** *0723* 
  
 ### 打标签
 - git **tag** *v1.0* [commit id]
