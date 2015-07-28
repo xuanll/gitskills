@@ -41,7 +41,7 @@
   git **checkout** *0723*
  
 ### 打标签
-- git **tag** *v1.0* /[commit id/]
+- git **tag** *v1.0* [commit id]
 
 ### 推送标签到远程服务器
 - git **push** *origin* *v1.0*
