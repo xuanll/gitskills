@@ -1,4 +1,4 @@
-# (Git commands)[http://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000]
+# [Git commands](http://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000)
 
 * 运行 Git Bash ，进入到安装目录 直接运行 "Git Bash" (Windows 下 "Git Bash.vbs")
 
