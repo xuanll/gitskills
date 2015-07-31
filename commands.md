@@ -53,3 +53,9 @@
 
   git **push** *origin* --tags
   
+### 丢弃工作区修改(未添加到暂存区)
+- git **checkout** --*commands.md*
+
+### 丢弃修改（已添加暂存区）
+- git **reset** *HEAD* *commands.md*
+  
