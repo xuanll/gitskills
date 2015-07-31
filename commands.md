@@ -57,5 +57,5 @@
 - git **checkout** -- *commands.md*
 
 ### 丢弃修改（已添加暂存区）
-- git **reset** *HEAD* *commands.md*
-  
+1. git **reset** *HEAD* *commands.md*
+2. git **checkout** -- *commands.md*
