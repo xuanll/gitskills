@@ -59,3 +59,9 @@
 ### 丢弃修改（已添加暂存区）
 1. git **reset** *HEAD* *commands.md*
 2. git **checkout** -- *commands.md*
+
+### 历史版本时光机
+- git **reset** --hard commit_id   
+
+### 查看命令历史
+- git **reflog** 
