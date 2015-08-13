@@ -65,3 +65,6 @@
 
 ### 查看命令历史
 - git **reflog** 
+
+### 生成SSH密钥(ssh_pub文件)
+- ssh-keygen -t rsa -C "example@mail.com"
