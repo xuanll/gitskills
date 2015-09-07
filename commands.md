@@ -68,3 +68,6 @@
 
 ### 生成SSH密钥(ssh_pub文件)
 - ssh-keygen -t rsa -C "example@mail.com"
+
+### Fetch
+- git **fetch**
