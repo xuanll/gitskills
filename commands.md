@@ -76,5 +76,5 @@
 - git **remote add** *origin* *https://github.com/xuanll/HelloPebble.git*
 - git push -u origin master  
 
->-远程库的名字就是origin，这是Git默认的叫法
->-第一次推送master分支时，加上了-u参数，Git不但会把本地的master分支内容推送的远程新的master分支，还会把本地的master分支和远程的master分支关联起来，在以后的推送或者拉取时就可以简化命令。
+> - 远程库的名字就是origin，这是Git默认的叫法
+> - 第一次推送master分支时，加上了-u参数，Git不但会把本地的master分支内容推送的远程新的master分支，还会把本地的master分支和远程的master分支关联起来，在以后的推送或者拉取时就可以简化命令。
